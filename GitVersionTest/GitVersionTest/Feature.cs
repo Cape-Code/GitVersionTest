@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace GitVersionTest
 {
-    public class Class1
+    public class Feature
+
     {
     }
 }
